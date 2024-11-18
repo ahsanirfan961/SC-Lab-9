@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a93a7d1d-f730-4dd0-b607-53fd623a8579" name="Changes" comment="FIrst Push">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/GraphPoet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/GraphPoetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/mugar-omni-theater.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ahsanirfan961&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ahsanirfan961/SC-Lab-8&quot;,
+    &quot;accountId&quot;: &quot;d546eee1-b95b-4013-801a-1a8ab9c8e004&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2ohNvGyyw1svIEn6tdyhUSRCFjP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.ConcreteEdgesGraphTest.executor": "Run",
+    "JUnit.ConcreteVerticesGraphTest.executor": "Run",
+    "JUnit.ConcreteVerticesGraphTest.testInitialVerticesEmpty.executor": "Run",
+    "JUnit.ConcreteVerticesGraphTest.testSetEdge.executor": "Run",
+    "JUnit.GraphPoetTest.basicPoemGeneration.executor": "Run",
+    "JUnit.GraphPoetTest.bridgeWordsInMiddle.executor": "Debug",
+    "JUnit.GraphPoetTest.caseInsensitivity.executor": "Run",
+    "JUnit.GraphPoetTest.executor": "Run",
+    "JUnit.GraphPoetTest.noBridgeWords.executor": "Run",
+    "JUnit.GraphPoetTest.specialCharacters.executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Ahsan/Study/NUST/5th Semester/Assignments/Software Construction/Lab/Lab 9",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Global Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Ahsan\Study\NUST\5th Semester\Assignments\Software Construction\Lab\Lab 9\src\main\java\org\example" />
+      <recent name="D:\Ahsan\Study\NUST\5th Semester\Assignments\Software Construction\Lab\Lab 8\src\main\java\org\example\test" />
+      <recent name="D:\Ahsan\Study\NUST\5th Semester\Assignments\Software Construction\Lab\Lab 8\src\main\java\org\example" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.GraphPoetTest">
+    <configuration name="GraphPoetTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.GraphPoetTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GraphPoetTest.bridgeWordsInMiddle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.GraphPoetTest" />
+      <option name="METHOD_NAME" value="bridgeWordsInMiddle" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GraphPoetTest.caseInsensitivity" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.GraphPoetTest" />
+      <option name="METHOD_NAME" value="caseInsensitivity" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GraphPoetTest.noBridgeWords" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.GraphPoetTest" />
+      <option name="METHOD_NAME" value="noBridgeWords" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GraphPoetTest.specialCharacters" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.GraphPoetTest" />
+      <option name="METHOD_NAME" value="specialCharacters" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.GraphPoetTest" />
+        <item itemvalue="JUnit.GraphPoetTest.bridgeWordsInMiddle" />
+        <item itemvalue="JUnit.GraphPoetTest.specialCharacters" />
+        <item itemvalue="JUnit.GraphPoetTest.caseInsensitivity" />
+        <item itemvalue="JUnit.GraphPoetTest.noBridgeWords" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a93a7d1d-f730-4dd0-b607-53fd623a8579" name="Changes" comment="" />
+      <created>1731318080454</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731318080454</updated>
+      <workItem from="1731318081510" duration="3452000" />
+      <workItem from="1731321547305" duration="2477000" />
+      <workItem from="1731324068956" duration="1668000" />
+      <workItem from="1731924706506" duration="2867000" />
+    </task>
+    <task id="LOCAL-00001" summary="FIrst Push">
+      <option name="closed" value="true" />
+      <created>1731325563799</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731325563799</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="FIrst Push" />
+    <option name="LAST_COMMIT_MESSAGE" value="FIrst Push" />
+  </component>
+</project>
